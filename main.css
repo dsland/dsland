@@ -1,0 +1,19 @@
+body{
+    background-color: grey;
+    font-family: 'Source Serif Pro', serif;
+}
+
+/* Center div in CSS */
+/* Identify tag to apply rule */
+div{
+    /* to center a div, we have to change its dimensions */
+    width: 700px;
+    height: 700px;
+    /* Change the margin properties to zero and auto */
+    margin: 0 auto;
+    border: 1px solid red;
+}
+
+h1{
+    font-size: 40px;
+}
